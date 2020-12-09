@@ -5,7 +5,7 @@
 Hyperlinks to each of the lab exercises and demos are listed below.
 
 #### Table of Contents
-1. [MS Docs Course](#Course)
+- [Course](#course)
 
 ---
 
